@@ -46,6 +46,7 @@ The dashboard allows users to:
 | Matplotlib & Seaborn | Statistical plots |
 
 ---
+## project Link : https://deloiteassessment-8bwwztv5ad822omqcurxar.streamlit.app/
 
 ## How to Run
 
