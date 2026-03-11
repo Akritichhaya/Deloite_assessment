@@ -5,7 +5,7 @@
 | Field | Details |
 |-------|---------|
 | **Full Name** | Akriti Chhaya |
-| **Email ID** | akritichhaya@gmail.com |
+| **Email ID** | theakritichhaya@gmail.com |
 | **College Name** | Kavikulguru Institute of Technology and Science, Ramtek |
 | **Selected Skill Track** | AI & Machine Learning (Python) |
 
